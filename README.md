@@ -4,9 +4,12 @@
 
 🔍 I'm currently delving into Super Resolution techniques in the area of Remote Sensing, finding it thrilling to push the boundaries of what we can visualize and understand from our data.
 
-🚀 In my free time, I dive into various projects encompassing the sports, finance, and automotive sectors. My GitHub repos provide a glimpse into my work and interests.
+🚀 In my free time, I dive into various projects encompassing the sports, finance, and automotive sectors. You can find my work on GitHub under the username **PatoK55**.
+
+🏎️ Fun fact about my username: The '55' is a nod to my admiration for Formula 1 driver Carlos Sainz, known as the "Smooth Operator". Just like him, I aim to be a smooth operator in everything I do.
 
 Check out my projects to learn more about my research and personal pursuits!
+
 
 <!---
 PatoK55/PatoK55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
